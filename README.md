@@ -4,7 +4,7 @@ I’m a low-level programming enthusiast with some experience in C and C++. I’
 
 I use Arch btw
 
-![profile-views](https://komarev.com/ghpvc/?username=sidtronics&base=134)
+![profile-views](https://komarev.com/ghpvc/?username=sidtronics)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=sidtronics&show_icons=true&theme=transparent)
 
