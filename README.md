@@ -2,7 +2,7 @@
 
 I’m a low-level programming enthusiast with some experience in C and C++. I’m interested in embedded engineering and a dedicated Linux power user.
 
-I use Arch btw
+I use Arch (btw)
 
 ![profile-views](https://komarev.com/ghpvc/?username=sidtronics)
 
